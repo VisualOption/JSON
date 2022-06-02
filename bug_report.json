@@ -1,16 +1,16 @@
 {
 "Bug id": 900,
-"Title": "Widgets created through [desktop settings] are similar, but display different information",
+"Title": "Widgets created through desktop settings are similar, but display different information",
 "Severity": "trivial",
 "Priority": "low",
 "Environment": "Samsung galaxy S20",
-"Precondition": "Install the app [AndroidGridTest] on your phone",
+"Precondition": "Install the app AndroidGridTest on your phone",
 "STR": {
   "Need to create several different widgets on the desktop": {
-"step1": "Touch and hold your finger on the [desktop] (Longtap)",
-"step2": "Select the [Widgets] section",
-"step3": "From the list of installed programs, select [AndroidGridTest]",
-"step4": "From the list of widgets in this section, select any and click [add]",
+"step1": "Touch and hold your finger on the desktop (Longtap)",
+"step2": "Select the Widgets section",
+"step3": "From the list of installed programs, select AndroidGridTest",
+"step4": "From the list of widgets in this section, select any and click add",
 "step5": "Repeat the procedure, create several different widgets",
 "step6": "Stretch the created widgets by length and width"
   },
